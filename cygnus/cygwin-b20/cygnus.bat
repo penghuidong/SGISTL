@@ -1,0 +1,4 @@
+@ECHO OFF
+SET MAKE_MODE=UNIX
+SET PATH=c:\cygnus\CYGWIN~1\H-I586~1\bin;%PATH%
+bash
